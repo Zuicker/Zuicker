@@ -11,4 +11,4 @@
 
 ### 📈 Estatísticas do GitHub
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zuicker&layout=compact&theme=transparent)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zuicker&layout=compact&theme=transparent&cache_seconds=0)
